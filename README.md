@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-Implementações, atividades e exercícios da matéria de Aplicações com interfaces ricas.
+Implementações, estudos, testes e projetos sobre tailwind css
 
 ## O que foi feito até agora:
 
