@@ -9,11 +9,12 @@ Implementações, estudos, testes e projetos sobre tailwind css
 - [X] Ler documentação 
 - [X] Estudo base do tailwindcss 
 - [X] HTML do tatuadouro para usar de base
+- [X] Implementação do tailwindcss no html criado
 
 ## O que falta ser feito:
 
 - [ ] Estudos avançados do tailwincss
 - [ ] Aprender as principais classes e as mais usadas
-- [ ] Implementação do tailwindcss no html criado
+- [ ] Estilizar o html base
 
  
